@@ -1,0 +1,13 @@
+.ulDiv{
+    margin: auto;
+    width: 420px;
+}
+ul{
+    padding-top: 20px;
+}
+li{
+    border: 1px solid #fff9c4;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 5px;
+}
